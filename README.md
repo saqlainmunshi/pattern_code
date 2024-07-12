@@ -6,7 +6,7 @@ public class pattern {
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		int n = 5;
+		int n = 7;
 		
 			
 			for(int i=0 ;i<n; i++)
